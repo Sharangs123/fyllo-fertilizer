@@ -13,7 +13,7 @@ Node v14.17.6 or greater
 npm 6.14.15 or greater
 Installation and Setup
 Clone the repo
-git clone 
+git clone https://github.com/Sharangs123/fyllo-fertilizer.git
 Install packages
 npm install or yarn install
 To start server
